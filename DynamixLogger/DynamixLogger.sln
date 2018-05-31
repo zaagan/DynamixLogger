@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamixLogger", "DynamixLogger\DynamixLogger.csproj", "{558ABD7C-B381-4839-A709-9A403A958156}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamixLogger-TestApp", "DynamixLogger-TestApp\DynamixLogger-TestApp.csproj", "{33540838-5423-4DF9-A9F5-20A2A755598E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{558ABD7C-B381-4839-A709-9A403A958156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{558ABD7C-B381-4839-A709-9A403A958156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{558ABD7C-B381-4839-A709-9A403A958156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{558ABD7C-B381-4839-A709-9A403A958156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33540838-5423-4DF9-A9F5-20A2A755598E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33540838-5423-4DF9-A9F5-20A2A755598E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33540838-5423-4DF9-A9F5-20A2A755598E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33540838-5423-4DF9-A9F5-20A2A755598E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
