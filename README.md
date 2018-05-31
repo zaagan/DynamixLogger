@@ -11,6 +11,22 @@ The project consists of the DynamixLogger library along with a sample applicatio
 
 
 
+## Installation
+
+#### Using Package Manager
+
+```bash
+Install-Package DynamixLogger -Version 1.0.0
+```
+
+#### Using .NET CLI
+
+```bash
+dotnet add package DynamixLogger --version 1.0.0
+```
+
+
+
 ## Basic Usage
 
 If you have not configured the FileLogInfo properly, The library will dump the log files to the root of the application by default.
