@@ -1,7 +1,6 @@
 ﻿using DynamixLogger;
 using DynamixLogger.Info;
 using DynamixLogger.LogStrategy;
-using DynamixLogger.LogStrategy.File;
 using DynamixLogger.Utilities;
 using DynamixLogger_TestApp.Controllers;
 using DynamixLogger_TestApp.NinjectUtils;

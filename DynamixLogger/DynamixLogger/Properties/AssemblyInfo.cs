@@ -5,13 +5,13 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DynamixLogger")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Dynamix Logger")]
+[assembly: AssemblyDescription("A lightweight hackable logging library")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Ozesh Thapa (github.com/zaagan)")]
 [assembly: AssemblyProduct("DynamixLogger")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyTrademark("Zaagan")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 

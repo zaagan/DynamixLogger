@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>DynamixLogger</id>
+    <version>1.0.0</version>
+    <authors>Ozesh Thapa</authors>
+    <owners>Ozesh Thapa</owners>
+    <projectUrl>https://github.com/zaagan/DynamixLogger</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A lightweight hackable logger</description>
+    <releaseNotes>File Logging implemented</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>CSharp Logger Logging FileLogger</tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
