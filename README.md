@@ -171,7 +171,7 @@ fileLogInfo.LogMessage = "";
 
 **FolderName :** The name of the folder
 
-**FileName :**The name of the log file
+**FileName :** The name of the log file
 
 **Presentation :** The level of detail you wish to expose to the log file .
 
@@ -179,9 +179,9 @@ fileLogInfo.LogMessage = "";
 Presentation Types: LOG__ONLY, LOG_WITH_SEVERITY,  FULL_DETAIL
 ```
 
-**LogType : ** Message, Exception
+**LogType :** Message, Exception
 
-**LogLevel : **  INFO = 1, WARNING = 2, ERROR = 3, EXCEPTION = 4, DEBUG = 0
+**LogLevel :**  INFO = 1, WARNING = 2, ERROR = 3, EXCEPTION = 4, DEBUG = 0
 
 
 
